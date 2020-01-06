@@ -1,2 +1,2 @@
 # BlackJack
-pygame实现带界面二十点一游戏
+pygame实现带界面二十一点游戏
