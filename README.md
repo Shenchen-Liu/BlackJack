@@ -1,2 +1,3 @@
 # BlackJack
-pygame实现带界面二十一点游戏
+pygame实现带界面21点游戏
+BlackJack with UI which developed on pygame
